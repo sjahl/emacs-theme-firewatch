@@ -1,4 +1,4 @@
-# Afterglow Theme
+# Firewatch Theme
 
 An emacs theme based on [Firewatch](https://github.com/SebastianSzturo/firewatch-syntax) for [Atom](https://github.com/SebastianSzturo/firewatch-syntax) and [Sublime Text](https://github.com/paradox41/firewatch-color-scheme).
 
