@@ -33,7 +33,7 @@
 
  '(minibuffer-prompt                   ((t (:foreground "#1278A8"  :background nil       :weight bold                                  ))))
  '(escape-glyph                        ((t (:foreground "orange"   :background nil                                                     ))))
- '(highlight                           ((t (:foreground "orange"   :background nil                                                     ))))
+ '(highlight                           ((t (:foreground nil   :background "#353942"                                                     ))))
  '(shadow                              ((t (:foreground "#777777"  :background nil                                                     ))))
 
  '(trailing-whitespace                 ((t (:foreground "#FFFFFF"  :background "#C74000"                                               ))))
@@ -53,7 +53,7 @@
 
  '(isearch                             ((t (:foreground "#99ccee"  :background "#444444"                                               ))))
  '(isearch-fail                        ((t (                       :background "#ffaaaa"                                               ))))
- '(lazy-highlight                      ((t (                       :background "#77bbdd"                                               ))))
+ '(lazy-highlight                      ((t (:foreground "444444"   :background "#eab700"                                               ))))
  '(match                               ((t (                       :background "#3388cc"                                               ))))
 
  '(tooltip                             ((t (:foreground "black"    :background "LightYellow" :inherit (variable-pitch)                 ))))
